@@ -1,0 +1,27 @@
+h1 {
+  color: green;
+}
+
+p {
+  color: coral;
+}
+
+ul {
+  list-style-image: url("Images/pointer-icon.png");
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+#menu-bar a {
+  text-decoration: none;
+  background-color: aquamarine;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px;
+}
+
+#menu-bar a:hover {
+  background-color: aqua;
+  color: #ffffff;
+}
